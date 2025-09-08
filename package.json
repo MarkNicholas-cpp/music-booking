@@ -4,7 +4,7 @@
   "description": "Music booking service backend",
   "license": "MIT",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node src/index.js",
     "dev": "nodemon src/index.js",
     "test": "jest --runInBand --detectOpenHandles"
   },
