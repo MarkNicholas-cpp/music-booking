@@ -8,6 +8,7 @@ const cors = require("cors");
 
 const allowedOrigins = [
   "http://localhost:5173", // Dev frontend
+  "http://10.193.138.212:5173/"
   // "https://your-frontend-domain.com" // Your deployed frontend (add later)
 ];
 
